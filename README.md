@@ -1,4 +1,4 @@
-activator-akka-scala-seed
+my-scaldli-sample
 =========================
 
-A minimal seed template for an Akka with Scala build 
+http://scaldi.org
